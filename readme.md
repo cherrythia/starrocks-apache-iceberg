@@ -1,0 +1,1 @@
+This is a readme to practice starrocks with apache iceberg. 
